@@ -1,0 +1,123 @@
+/*******************************************************************
+ * @name Halcyon Light
+ * @description A minimalistic light mode theme designed for Discord
+ * @author Cheternal
+ * @version 0.1
+ ******************************************************************/
+
+
+/* Note: Both .theme-dark & .theme-light functions are set to same variables to prevent
+         Discord from automatically switching to either modes when on mobile */
+
+
+/* Dark Mode */
+.theme-dark {
+  /* Alters the color of your name and other users */
+  /* Also changes the color of notifications from folders */
+  --header-primary: var(--text-normal);
+  --header-secondary: var(--text-muted);
+
+  /* Alters background colors */
+  --background-primary: #dae6f8;
+  --background-secondary: #dae6f8;
+  --background-secondary-alt: #dae6f8;
+  --background-tertiary: #bbcbf2;
+  --background-tertiary-alt: #bbcbf2;
+  --background-accent: #fd9c2a;
+  --background-floating: #e9ecee;
+  --background-mentioned: #d4e1f6;
+  --background-modifier-hover: #c2d9ff;
+  --background-modifier-active: #c2d9ff;
+  --background-modifier-selected: #c2d9ff;
+  --background-modifier-accent: #000000;
+  --border-mentioned: #c2d9ff;
+  --background-mentioned-hover: #cfd2e9;
+  --accent-color: #c2d9ff;
+
+  /* Alters the appearance of texts */
+  --text-normal: #000000;
+  --text-muted: #000000
+  --interactive-normal: #274782;
+  --interactive-hover: #fd9c2a;
+  --interactive-active: #fd9c2a;
+  --interactive-muted: #274782;
+
+  /* Folder Color */
+  --folder-color: #c3cfe8;
+  --folder-color-light: #c0cbe3;
+
+  /* To alter the appearance of the scrollbars */
+  --scrollbar-thin-thumb: #c6c9d1;
+  --scrollbar-thin-track: transparent;
+  --scrollbar-auto-thumb: #c6c9d1;
+  --scrollbar-auto-thumb-hover: #c6c9d1;
+  --scrollbar-auto-track: transparent;
+  --scrollbar-auto-scrollbar-color-thumb: var(--scrollbar-auto-thumb);
+  --scrollbar-auto-scrollbar-color-track: var(--scrollbar-auto-track);
+
+  /* Chat Box Color */
+  --channeltextarea-background: var(--background-secondary);
+  --channeltextarea-background-hover: var(--background-tertiary);
+
+  /* Input Box Color */
+  --input-box-bg: #c2c2c7;
+  --input-box-border: #b3b4b8;
+  --input-box-border-focus: #ffffff;
+}
+
+
+
+/* Light Mode */
+.theme-light {
+  /* Alters the color of your name and other users */
+  /* Also changes the color of notifications from folders */
+  --header-primary: var(--text-normal);
+  --header-secondary: var(--text-muted);
+
+  /* Alters background colors */
+  --background-primary: #dae6f8;
+  --background-secondary: #dae6f8;
+  --background-secondary-alt: #dae6f8;
+  --background-tertiary: #bbcbf2;
+  --background-tertiary-alt: #bbcbf2;
+  --background-accent: #fd9c2a;
+  --background-floating: #e9ecee;
+  --background-mentioned: #d4e1f6;
+  --background-modifier-hover: #c2d9ff;
+  --background-modifier-active: #c2d9ff;
+  --background-modifier-selected: #c2d9ff;
+  --background-modifier-accent: #000000;
+  --border-mentioned: #c2d9ff;
+  --background-mentioned-hover: #cfd2e9;
+  --accent-color: #c2d9ff;
+
+  /* Alters the appearance of texts */
+  --text-normal: #000000;
+  --text-muted: #000000
+  --interactive-normal: #274782;
+  --interactive-hover: #fd9c2a;
+  --interactive-active: #fd9c2a;
+  --interactive-muted: #274782;
+
+  /* Folder Color */
+  --folder-color: #c3cfe8;
+  --folder-color-light: #c0cbe3;
+
+  /* To alter the appearance of the scrollbars */
+  --scrollbar-thin-thumb: #c6c9d1;
+  --scrollbar-thin-track: transparent;
+  --scrollbar-auto-thumb: #c6c9d1;
+  --scrollbar-auto-thumb-hover: #c6c9d1;
+  --scrollbar-auto-track: transparent;
+  --scrollbar-auto-scrollbar-color-thumb: var(--scrollbar-auto-thumb);
+  --scrollbar-auto-scrollbar-color-track: var(--scrollbar-auto-track);
+
+  /* Chat Box Color */
+  --channeltextarea-background: var(--background-secondary);
+  --channeltextarea-background-hover: var(--background-tertiary);
+
+  /* Input Box Color */
+  --input-box-bg: #c2c2c7;
+  --input-box-border: #b3b4b8;
+  --input-box-border-focus: #ffffff;
+}
