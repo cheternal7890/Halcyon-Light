@@ -6,6 +6,8 @@ A minimalistic light mode theme designed using Discord's color palette.
 
 
 
+
+<h1>Setup</h1>
 **BetterDiscord**
 1. Download and Install BetterDiscord https://betterdiscord.app/
 2. Open your themes folder by going to the "BetterDiscord" category in user settings (CTRL + ,), selecting "Themes", and pressing the "Open Themes Folder" button.
