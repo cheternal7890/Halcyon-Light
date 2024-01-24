@@ -36,7 +36,7 @@
 
   /* Alters the appearance of texts */
   --text-normal: #000000;
-  --text-muted: #000000
+  --text-muted: #000000;
   --interactive-normal: #274782;
   --interactive-hover: #fd9c2a;
   --interactive-active: #fd9c2a;
@@ -93,7 +93,7 @@
 
   /* Alters the appearance of texts */
   --text-normal: #000000;
-  --text-muted: #000000
+  --text-muted: #000000;
   --interactive-normal: #274782;
   --interactive-hover: #fd9c2a;
   --interactive-active: #fd9c2a;
