@@ -1,8 +1,9 @@
-**Halcyon Light **
+**Halcyon Light**
 
 A minimalistic light mode theme designed using Discord's color palette.
 
 <img alt="Light Minimalistic Theme Photo" src="https://github.com/cheternal7890/Halcyon-Light/assets/157067093/89142456-f2e5-478b-a7cc-6a2e8d28f270" width = "600" height = "300" border = "1">
+
 
 
 **BetterDiscord**
