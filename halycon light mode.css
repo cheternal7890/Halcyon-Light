@@ -5,10 +5,8 @@
  * @version 0.1
  ******************************************************************/
 
-
 /* Note: Both .theme-dark & .theme-light functions are set to same variables to prevent
          Discord from automatically switching to either modes when on mobile */
-
 
 /* Dark Mode */
 .theme-dark {
@@ -29,14 +27,14 @@
   --background-modifier-hover: #c2d9ff;
   --background-modifier-active: #c2d9ff;
   --background-modifier-selected: #c2d9ff;
-  --background-modifier-accent: #000000;
+  --background-modifier-accent: #c2d9ff;
   --border-mentioned: #c2d9ff;
   --background-mentioned-hover: #cfd2e9;
   --accent-color: #c2d9ff;
 
   /* Alters the appearance of texts */
-  --text-normal: #000000;
-  --text-muted: #000000;
+  --text-normal: #c2d9ff;
+  --text-muted: #c2d9ff;
   --interactive-normal: #274782;
   --interactive-hover: #fd9c2a;
   --interactive-active: #fd9c2a;
@@ -65,8 +63,6 @@
   --input-box-border-focus: #ffffff;
 }
 
-
-
 /* Light Mode */
 .theme-light {
   /* Alters the color of your name and other users */
@@ -86,7 +82,7 @@
   --background-modifier-hover: #c2d9ff;
   --background-modifier-active: #c2d9ff;
   --background-modifier-selected: #c2d9ff;
-  --background-modifier-accent: #000000;
+  --background-modifier-selected: #c2d9ff;
   --border-mentioned: #c2d9ff;
   --background-mentioned-hover: #cfd2e9;
   --accent-color: #c2d9ff;
@@ -99,7 +95,7 @@
   --interactive-active: #fd9c2a;
   --interactive-muted: #274782;
 
-  /* Folder Color */
+  /*Alters the color of folders */
   --folder-color: #c3cfe8;
   --folder-color-light: #c0cbe3;
 
