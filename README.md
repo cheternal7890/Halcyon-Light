@@ -4,7 +4,16 @@
 
 Halcyon Light Mode Theme is a minimalistic light mode theme designed with Discord's color style in mind.
 
-<img alt="Light Minimalistic Theme Photo" src="https://github.com/cheternal7890/Halcyon-Light/assets/157067093/89142456-f2e5-478b-a7cc-6a2e8d28f270" width = "600" height = "300" border = "1">
+## Before and After
+
+**This is how the default theme looks:**
+
+<img width="853" alt="Custom Color Palette" src="https://github.com/cheternal7890/Halcyon-Light/assets/157067093/76a79976-52d9-4050-8037-0433b93bdcbe" border = "1">
+
+**This is what Discord looks like after the theme is applied:**
+
+<img width="853" alt="Custom Color Palette" src="https://github.com/cheternal7890/Halcyon-Light/assets/157067093/3524a307-1ef7-4d8a-80b5-ca8eb94038e4" border = "1">
+
 
 ## Setup
 
