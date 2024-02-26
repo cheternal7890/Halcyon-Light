@@ -14,6 +14,8 @@ Halcyon Light Mode Theme is a minimalistic light mode theme designed with Discor
 
 <img width="853" alt="Custom Color Palette" src="https://github.com/cheternal7890/Halcyon-Light/assets/157067093/3524a307-1ef7-4d8a-80b5-ca8eb94038e4" border = "1">
 
+## Color Reference
+![Color Palette](https://github.com/cheternal7890/Halcyon-Light/assets/157067093/daaffca1-b623-4a75-be6c-3cf5435f022c)
 
 ## Setup
 
@@ -25,3 +27,4 @@ Halcyon Light Mode Theme is a minimalistic light mode theme designed with Discor
 4. Press the "Open Themes Folder" button.
 5. Drag the `halcyon-light-mode.css` file into that folder.
 6. Enjoy your new theme!
+
